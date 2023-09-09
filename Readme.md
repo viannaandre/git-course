@@ -1,1 +1,7 @@
-"Gostou do curso? /n Quer mais? /n Ajude com uma doa‡Æo, at‚ um caf‚ ‚ v lido" 
+#Git Course
+
+Este é um repositório teste para ensinar como o Git funciona.
+
+Saiba mais em [willianajusten.com.br](http://willianjusten.com.br)
+
+Gostou do curso? Quer mais? Ajude com uma doação até um café é válido 
